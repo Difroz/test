@@ -8,7 +8,7 @@
 
 1.1) Установить docker-compose — https://docs.docker.com/compose/install/
 
-2.) Сделать клон git репозитория — https://github.com/42musaev/bobcat_lms
+2.) Сделать клон git репозитория — https://github.com/Difroz/test.git
 
 3.) В директории проекта запустить docker-compose up
 
