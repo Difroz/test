@@ -10,10 +10,7 @@
 
 2.) Сделать клон git репозитория — https://github.com/42musaev/bobcat_lms
 
-3.) В директории проекта запустить docker-compose up --build
-4.) В командной строке контейнера ввести команды:
-python manage.py makemigrations
-python manage.py migrate
+3.) В директории проекта запустить docker-compose up
 
 4.)Перейти по ссылке http://localhost:8000/deals-api/ и загузить csv файл
 
